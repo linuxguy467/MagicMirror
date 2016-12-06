@@ -37,7 +37,7 @@ curl -sL https://raw.githubusercontent.com/linuxguy467/MagicMirror/master/instal
 ### Manual Installation
 
 1. Download and install the latest Node.js version.
-2. Clone the repository and check out the beta branch: `git clone https://github.com/MichMich/MagicMirror`
+2. Clone the repository and check out the beta branch: `git clone https://github.com/linuxguy467/MagicMirror`
 3. Enter the repository: `cd ~/MagicMirror`
 4. Install and run the app: `npm install && npm start`
 
@@ -52,8 +52,8 @@ In some cases, you want to start the application without an actual app window. I
 ### Raspberry Configuration & Auto Start.
 
 The following wiki links are helpful in the configuration of your MagicMirror² operating system:
-- [Configuring the Raspberry Pi](https://github.com/MichMich/MagicMirror/wiki/Configuring-the-Raspberry-Pi)
-- [Auto Starting MagicMirror](https://github.com/MichMich/MagicMirror/wiki/Auto-Starting-MagicMirror)
+- [Configuring the Raspberry Pi](https://github.com/linuxguy467/MagicMirror/wiki/Configuring-the-Raspberry-Pi)
+- [Auto Starting MagicMirror](https://github.com/linuxguy467/MagicMirror/wiki/Auto-Starting-MagicMirror)
 
 ### Updating your MagicMirror²
 
@@ -106,12 +106,12 @@ The following modules are installed by default.
 - [**Hello World**](modules/default/helloworld)
 - [**Alert**](modules/default/alert)
 
-For more available modules, check out out the wiki page: [MagicMirror² Modules](https://github.com/MichMich/MagicMirror/wiki/MagicMirror²-Modules). If you want to build your own modules, check out the [MagicMirror² Module Development Documentation](modules) and don't forget to add it to the wiki and the [forum](https://forum.magicmirror.builders/category/7/showcase)!
+For more available modules, check out out the wiki page: [MagicMirror² Modules](https://github.com/linuxguy467/MagicMirror/wiki/MagicMirror²-Modules). If you want to build your own modules, check out the [MagicMirror² Module Development Documentation](modules) and don't forget to add it to the wiki and the [forum](https://forum.magicmirror.builders/category/7/showcase)!
 
 ## Known issues
 
-- Electron seems to have some issues on certain Raspberry Pi 2's. See [#145](https://github.com/MichMich/MagicMirror/issues/145).
-- MagicMirror² (Electron) sometimes quits without an error after an extended period of use. See [#150](https://github.com/MichMich/MagicMirror/issues/150).
+- Electron seems to have some issues on certain Raspberry Pi 2's. See [#145](https://github.com/linuxguy467/MagicMirror/issues/145).
+- MagicMirror² (Electron) sometimes quits without an error after an extended period of use. See [#150](https://github.com/linuxguy467/MagicMirror/issues/150).
 
 ## Community
 
